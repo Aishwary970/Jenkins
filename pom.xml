@@ -24,7 +24,7 @@
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.14.0</version>
+          <version>3.10.1</version>
           <configuration>
             <release>17</release>
           </configuration>
@@ -63,7 +63,7 @@
                   <version>[3.6.3,)</version>
                 </requireMavenVersion>
                 <requireJavaVersion>
-                  <version>[17.0.14,)</version>
+                  <version>[17,)</version>
                 </requireJavaVersion>
               </rules>
             </configuration>
